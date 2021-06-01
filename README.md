@@ -12,4 +12,4 @@ $ npm install
 ```
 $ npm run start
 ```
-<p>This is a very simple JavaScript app. It make a multiples domain names. Uses arrays and loops</p>
+<p>This is a very simple JavaScript app. It makes a multiples domain names. Uses arrays and loops</p>
